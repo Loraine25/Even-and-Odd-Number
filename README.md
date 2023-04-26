@@ -1,21 +1,23 @@
 #Even and Odd
-This python program will create two other text file; the first text file will be named even.txt that will contains all even numbers extracted from the numbers.txt. The second text file will be named odd.txt that will contains all odd numbers extracted from the numbers.txt.
+
+*This python program will create two other text file; the first text file will be named even.txt that will contains all even numbers extracted from the numbers.txt. The second text file will be named odd.txt that will contains all odd numbers extracted from the numbers.txt.
 
 #Code Steps
-Open numbers.txt (read), even.txt (append), odd.txt (append)
 
-Read numbers.txt line by line
+1. Open numbers.txt (read), even.txt (append), odd.txt (append)
 
-Check if even
+2. Read numbers.txt line by line
 
-If even, write it to the even.txt file
+3. Check if even
 
-If odd, write it to the odd.txt file
+4. If even, write it to the even.txt file
+
+5. If odd, write it to the odd.txt file
 
 #Guide
 
-The first step is to enter random numbers to numbes.txt.
+1. The first step is to enter random numbers to numbes.txt.
 
-Run the code
+2. Run the code
 
-The code will then begin to split the even and odd to their respective txt files.
+3. The code will then begin to split the even and odd to their respective txt files.
