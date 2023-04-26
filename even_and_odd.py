@@ -19,3 +19,8 @@ with open("numbers.txt") as number_txt_file, open("even.txt", "a") as even_file,
         else:
             odd_file.write(str(line))
 
+# Print the output
+print(numbers)
+
+print("")
+print("\033[;33;1;3mJob well done, it's nice to meet you!\033[0m".center(84, "~"))
